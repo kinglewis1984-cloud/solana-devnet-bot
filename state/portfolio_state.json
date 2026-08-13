@@ -3,10 +3,11 @@
     75.78,
     75.74,
     75.77,
-    76.11
+    76.11,
+    76.19
   ],
   "position": "cash",
   "entry_price": null,
-  "rolling_high": 76.11,
+  "rolling_high": 76.19,
   "trades": []
 }
