@@ -1,7 +1,9 @@
 {
-  "price_history": [],
+  "price_history": [
+    75.78
+  ],
   "position": "cash",
   "entry_price": null,
-  "rolling_high": null,
+  "rolling_high": 75.78,
   "trades": []
 }
