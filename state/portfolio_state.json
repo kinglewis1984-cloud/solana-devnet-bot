@@ -2,10 +2,11 @@
   "price_history": [
     75.78,
     75.74,
-    75.77
+    75.77,
+    76.11
   ],
   "position": "cash",
   "entry_price": null,
-  "rolling_high": 75.78,
+  "rolling_high": 76.11,
   "trades": []
 }
