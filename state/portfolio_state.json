@@ -16,10 +16,18 @@
     75.6,
     75.38,
     75.47,
-    75.4
+    75.4,
+    75.34
   ],
-  "position": "cash",
-  "entry_price": null,
-  "rolling_high": 76.35,
-  "trades": []
+  "position": "position",
+  "entry_price": 75.34,
+  "rolling_high": null,
+  "trades": [
+    {
+      "action": "BUY",
+      "price": 75.34,
+      "sig": "riWDAEejAz3tL8WZKJKDbLCXcQhG2TcRQPrDKbRddRTvAREzSb2xk4Em9SjfW2dgXnU4FyrCdwbsP9J5QVKTaJK",
+      "ts": 1786711813.1714435
+    }
+  ]
 }
